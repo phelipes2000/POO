@@ -1,5 +1,5 @@
 
-public class Lutador extends Personagem {
+public class Lutador extends Personagem implements ArteMarcial{
 
  
 	
