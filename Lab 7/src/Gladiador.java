@@ -12,10 +12,12 @@ public class Gladiador extends Lutador {
 		
 		armas = new ArrayList<>();		
 		
-		Arma espada =new Arma("Escalibur");
-		espada.addGolpe("Ataque frontal", 50);
-		espada.addGolpe("Ataque Lateral", 40);
-		armas.add(espada);
+		// Arma espada = new Arma("Escalibur");
+		// espada.addGolpe("Ataque frontal", 50);
+		// espada.addGolpe("Ataque Lateral", 40);
+		// armas.add(espada);
+		Arma arma = new Baioneta();
+		armas.add(arma);
 	
 	}
 

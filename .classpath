@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="2 - Atributos e Metodos/src"/>
+	<classpathentry kind="src" path="3 - Heranca/src"/>
+	<classpathentry kind="src" path="4 - Polimorfismo/src"/>
+	<classpathentry kind="src" path="Lab 1/src"/>
+	<classpathentry kind="src" path="Lab 2/src"/>
+	<classpathentry kind="src" path="Lab 3/src"/>
+	<classpathentry kind="src" path="Lab 5/src"/>
+	<classpathentry kind="src" path="Lab 6/src"/>
+	<classpathentry kind="src" path="Lab 7/src"/>
+	<classpathentry kind="src" path="Lab 8/src"/>
+	<classpathentry kind="src" path="Lab 9/src"/>
+	<classpathentry kind="output" path="2 - Atributos e Metodos/bin"/>
+</classpath>

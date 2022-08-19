@@ -1,0 +1,30 @@
+tipoPersonagem;nomePersonagem;nivelEnergia;descricaoArma;descicaoGolpe;poderOfensivoGolpe;descricaoArmadura;poderDefesaArmadura;estadoConservacaoArmadura
+Fera;Fera sem nome 6;147.53
+Fera;Fera sem nome 20;177.86
+Fera;Fera sem nome 23;30.06
+Fera;Fera sem nome 33;185.47
+Fera;Fera sem nome 43;92.33
+Fera;Fera sem nome 59;112.70
+Fera;Fera sem nome 68;143.80
+Gladiador;Gladiador sem nome 77;100.00;Escalibur;Ataque frontal;50.00
+Gladiador;Gladiador sem nome 77;100.00;Escalibur;Ataque Lateral;40.00
+Gladiador;Gladiador sem nome 77;100.00;Escalibur[herdada de Gladiador sem nome 78];Ataque frontal;50.00
+Gladiador;Gladiador sem nome 77;100.00;Escalibur[herdada de Gladiador sem nome 78];Ataque Lateral;40.00
+Gladiador;Gladiador sem nome 77;100.00;Escalibur[herdada de Gladiador sem nome 79];Ataque frontal;50.00
+Gladiador;Gladiador sem nome 77;100.00;Escalibur[herdada de Gladiador sem nome 79];Ataque Lateral;40.00
+Gladiador;Gladiador sem nome 77;100.00;;;;Armadura de Corpo;0.50;0.50
+Gladiador;Gladiador sem nome 77;100.00;;;;Armadura de Corpo[herdada de Gladiador sem nome 78];0.50;0.50
+Gladiador;Gladiador sem nome 77;100.00;;;;Armadura de Corpo[herdada de Gladiador sem nome 79];0.50;0.50
+Gladiador;Gladiador sem nome 89;100.00;Escalibur;Ataque frontal;50.00
+Gladiador;Gladiador sem nome 89;100.00;Escalibur;Ataque Lateral;40.00
+Gladiador;Gladiador sem nome 89;100.00;Escalibur[herdada de Gladiador sem nome 90];Ataque frontal;50.00
+Gladiador;Gladiador sem nome 89;100.00;Escalibur[herdada de Gladiador sem nome 90];Ataque Lateral;40.00
+Gladiador;Gladiador sem nome 89;100.00;Escalibur[herdada de Gladiador sem nome 84];Ataque frontal;50.00
+Gladiador;Gladiador sem nome 89;100.00;Escalibur[herdada de Gladiador sem nome 84];Ataque Lateral;40.00
+Gladiador;Gladiador sem nome 89;100.00;Escalibur[herdada de Gladiador sem nome 81][herdada de Gladiador sem nome 84];Ataque frontal;50.00
+Gladiador;Gladiador sem nome 89;100.00;Escalibur[herdada de Gladiador sem nome 81][herdada de Gladiador sem nome 84];Ataque Lateral;40.00
+Gladiador;Gladiador sem nome 89;100.00;;;;Armadura de Corpo;0.50;0.50
+Gladiador;Gladiador sem nome 89;100.00;;;;Armadura de Corpo[herdada de Gladiador sem nome 90];0.50;0.50
+Gladiador;Gladiador sem nome 89;100.00;;;;Armadura de Corpo[herdada de Gladiador sem nome 84];0.50;0.50
+Gladiador;Gladiador sem nome 89;100.00;;;;Armadura de Corpo[herdada de Gladiador sem nome 81][herdada de Gladiador sem nome 84];0.50;0.50
+Fera;Fera sem nome 95;172.57

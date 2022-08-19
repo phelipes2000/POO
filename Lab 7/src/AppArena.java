@@ -7,11 +7,15 @@ public class AppArena {
 		personagens = new Personagem[qtdPersonagens];
 		for (int i = 0; i < personagens.length; i++) {
 			
-			int tipoPersonagem = (int)(Math.random() * 3);
+			int tipoPersonagem = (int)(Math.random() * 7);
 			
-			if(tipoPersonagem ==0 )	personagens[i] = new Lutador();
-			else if(tipoPersonagem ==1 )	personagens[i] = new Gladiador();
-			else if(tipoPersonagem ==2 )	personagens[i] = new Fera();
+			if(tipoPersonagem == 0 )	personagens[i] = new Lutador();
+			else if(tipoPersonagem == 1 )	personagens[i] = new Gladiador();
+			else if(tipoPersonagem == 2 )	personagens[i] = new Fera();
+			else if(tipoPersonagem == 3 )	personagens[i] = new Judoca();
+			else if(tipoPersonagem == 4 )	personagens[i] = new JiuJiteiro();
+			else if(tipoPersonagem == 5)	personagens[i] = new Karateka();
+			else if(tipoPersonagem == 6)	personagens[i] = new UfcFighter();
 		}
 	}
 	
@@ -46,8 +50,7 @@ public class AppArena {
 			p1.atacar(p2);
 			if(p2.estaVivo()) {
 				p2.atacar(p1);
-			}
-						
+			}				
 		}
 		Personagem vencedor= p1.estaVivo()?p1:p2;
 	
@@ -96,7 +99,7 @@ public class AppArena {
 			//index = index==personagens.length?0:index+1;
 			
 		}
-		System.out.println("Fim dos Combates. Campeão do torneio:" + getCampeao());
+		System.out.println("Fim dos Combates. Campeï¿½o do torneio:" + getCampeao());
 		
 	}
 	
